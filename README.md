@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Peter Omondi</h1>
 
 <div align="center">
-  <img src="[https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png](https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png)" alt="DevOpsShack Banner">
+  <img src="[[https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png](https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png)](https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png)" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate software developer aimed at developing high quality softwares that positively impacts day to day activities</h3>
@@ -10,10 +10,7 @@
   <a href="https://github.com/Hillcrest01">
     <img src="https://img.shields.io/github/followers/Hillcrest01?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@Learnaskillin5minutes">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://linkedin.com/in/peter-ochieng-51ba54240/">
     <img src="https://img.shields.io/badge/LinkedIn-Peter%20Ochieng-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
