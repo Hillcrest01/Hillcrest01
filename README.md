@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Peter Omondi</h1>
 
 <div align="center">
-  <img src="[[https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png](https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png)](https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png)" alt="DevOpsShack Banner">
+  <img src="[[https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png](https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png)]([https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png](https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png))" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate software developer aimed at developing high quality softwares that positively impacts day to day activities</h3>
