@@ -69,6 +69,8 @@
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hillcrest01&theme=chartreuse-dark&dates=white&fire=red)](https://git.io/streak-stats)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hillcrest01&limit=5&theme=flat&combine_all_yearly_contributions=true)
