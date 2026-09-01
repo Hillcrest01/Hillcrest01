@@ -1,11 +1,11 @@
-<h1 align="center">Hey Everyone 👋, I'm Peter Omondi</h1>
+<h1 align="center">Hey Everyone , I'm Peter Omondi</h1>
 
 <div align="center">
   <img src="https://github.com/Hillcrest01/Hillcrest01/blob/main/github%20banner.png" alt="DevOpsShack Banner">
 </div>
 
 
-<h3 align="center">A passionate software developer aimed at developing high quality softwares that positively impacts day to day activities</h3>
+<h3 align="center">A passionate software developer aimed at developing high quality softwares & ERPs that positively impacts day to day activities</h3>
 
 <p align="center">
   <a href="https://github.com/Hillcrest01">
@@ -22,15 +22,15 @@
   <img src="https://komarev.com/ghpvc/?username=Hillcrest01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hillcrest01](https://github.com/Hillcrest01)  
-- 💬 Ask me about **Frontend & Backend**  
-- 📫 How to reach me **peterochieng008@gmail.com**
+-  All of my projects are available at [https://github.com/Hillcrest01](https://github.com/Hillcrest01)  
+- Ask me about **ERP Applications, Payment Integrations, Laravel, Application Language**  
+-  How to reach me **peterochieng008@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/peter-ochieng-51ba54240/"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/peter-omondi-51ba54240/"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/peterochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
@@ -64,7 +64,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hillcrest01&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
-### 🔥 GitHub Contribution Streak
+### GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
@@ -72,14 +72,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hillcrest01&theme=chartreuse-dark&dates=white&fire=red)](https://git.io/streak-stats)
 
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hillcrest01&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+### About Me & Open to Collaborations
 
-🎤 Available for **Software Development role**  
-🤝 Open to **Project Collaborations**  
-💼 Offering **Python Practice**  
-📧 Let’s chat: [peterochieng008@gmail.com](mailto:peterochieng008@gmail.com)
+Available for **Microsoft AL Role, BC Integration Role, Software Developer Role**  
+Open to **Project Collaborations**  
+Offering **ERP Consultations**  
+Let’s chat: [peterochieng008@gmail.com](mailto:peterochieng008@gmail.com)
